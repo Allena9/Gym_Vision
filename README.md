@@ -1,4 +1,4 @@
-# Gym Vision 🏋️
+# Gym Vision
 
 A computer vision project that uses deep learning to recognize and classify gym equipment from images. Built with TensorFlow/Keras and transfer learning on MobileNetV2.
 
